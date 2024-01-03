@@ -5,7 +5,7 @@
 ## Introduction
 Danny's Diner is the first out of eight case studies by Danny Ma in his 8 weeks SQL challenge. Out of Danny's love for Japanese food, he chooses to set up a restaurant at the start of 2021, that sold sushi, curry, and ramen which were 3 of his most special foods. After a few months of operation, some data and insight have been required based on the given data to see how the restaurant can still stay in business. Sales, Menu, and Members were the 3 tables provided alongside their values. SQL was the tool used for this project. All queries were run on pgAdmin 4. 
 
-**_Disclaimer_**: _The Danny Diner's Case Study 1 image (just before the introduction) was gotten from 8weeksqlchallenge.com and has only been used for illustrative purposes. Also, the datasets do not represent any specific Japanese restaurant, and have been utilized to demonstrate the various functions in SQL._
+**_Disclaimer_**: _The Danny Diner's Case Study 1 image (just before the introduction) and the entity relationship image were gotten from 8weeksqlchallenge.com and has only been used for illustrative purposes. Also, the datasets do not represent any specific Japanese restaurant, and have been utilized to demonstrate the various functions in SQL._
 
 ## Skills Demonstrated
 * Database Creation
